@@ -2,7 +2,7 @@ module ezpkg.io/testingz
 
 go 1.21
 
-require ezpkg.io/diffz v0.0.2
+require ezpkg.io/diffz v0.0.3
 
 
 require github.com/sergi/go-diff v1.3.1
