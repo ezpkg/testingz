@@ -8,7 +8,7 @@
 
 [![PkgGoDev](https://pkg.go.dev/badge/ezpkg.io/testingz)](https://pkg.go.dev/ezpkg.io/testingz)
 [![GitHub License](https://img.shields.io/github/license/ezpkg/testingz)](https://github.com/ezpkg/testingz/tree/main/LICENSE)
-[![version](https://img.shields.io/github/v/tag/ezpkg/testingz?label=version)](https://github.com/ezpkg/testingz/tags)
+[![version](https://img.shields.io/github/v/tag/ezpkg/testingz?label=version)](https://pkg.go.dev/ezpkg.io/testingz?tab=versions)
 
 Packages [testingz](https://pkg.go.dev/ezpkg.io/testingz) provides utilities for testing. Support ignoring spaces and using placeholders.
 
