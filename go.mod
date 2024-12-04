@@ -1,12 +1,12 @@
 module ezpkg.io/testingz
 
-go 1.21
+go 1.23
 
 require (
-	ezpkg.io/colorz v0.1.2
-	ezpkg.io/diffz v0.1.2
-	ezpkg.io/fmtz v0.1.2
-	ezpkg.io/typez v0.1.2
+	ezpkg.io/colorz v0.2.0
+	ezpkg.io/diffz v0.2.0
+	ezpkg.io/fmtz v0.2.0
+	ezpkg.io/typez v0.2.0
 	github.com/smartystreets/goconvey v1.8.1
 )
 
