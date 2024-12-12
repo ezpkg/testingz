@@ -3,10 +3,10 @@ module ezpkg.io/testingz
 go 1.23
 
 require (
-	ezpkg.io/colorz v0.2.1
-	ezpkg.io/diffz v0.2.1
-	ezpkg.io/fmtz v0.2.1
-	ezpkg.io/typez v0.2.1
+	ezpkg.io/colorz v0.2.2
+	ezpkg.io/diffz v0.2.2
+	ezpkg.io/fmtz v0.2.2
+	ezpkg.io/typez v0.2.2
 	github.com/smartystreets/goconvey v1.8.1
 )
 
