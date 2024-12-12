@@ -3,10 +3,10 @@ module ezpkg.io/testingz
 go 1.23
 
 require (
-	ezpkg.io/colorz v0.2.0
-	ezpkg.io/diffz v0.2.0
-	ezpkg.io/fmtz v0.2.0
-	ezpkg.io/typez v0.2.0
+	ezpkg.io/colorz v0.2.1
+	ezpkg.io/diffz v0.2.1
+	ezpkg.io/fmtz v0.2.1
+	ezpkg.io/typez v0.2.1
 	github.com/smartystreets/goconvey v1.8.1
 )
 
@@ -20,5 +20,5 @@ require (
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/sergi/go-diff v1.3.1 // indirect
 	github.com/smarty/assertions v1.15.0 // indirect
-	github.com/stretchr/testify v1.8.1 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
